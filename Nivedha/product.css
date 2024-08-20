@@ -1,0 +1,191 @@
+.prod{
+    background-color: crimson;
+    padding: 100px;
+}
+.ind{
+    width:650px;
+    height:50px;
+    text-align: center;
+    border-radius: 50px;
+}
+.ind1{
+    text-align: center;
+    color:white;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+.bd{
+    background-color: brown;
+    color:white;
+}
+.im{
+    font-size: 20px; 
+    margin-top: 30px;  
+}
+.rw{
+    display: flex;
+    gap:20px;
+}
+.ab:hover{
+    transform: scale(1.06);
+    transition: all 1s;
+}
+.ab1:hover{
+    transform: scale(1.06);
+    transition: all 1s;
+}
+.ab2:hover{
+    transform: scale(1.06);
+    transition: all 1s;
+}
+.ab3:hover{
+    transform: scale(1.06);
+    transition: all 1s;
+}
+.in{
+    font-size: 20px;
+    margin-top: 30px;  
+}
+.cd:hover{
+    transform: scale(1.06);
+    transition: all 1s;
+}
+.cd1:hover{
+    transform: scale(1.06);
+    transition: all 1s;
+}
+.cd2:hover{
+    transform: scale(1.06);
+    transition: all 1s;
+}
+.cd3:hover{
+    transform: scale(1.06);
+    transition: all 1s;
+}
+.it{
+    font-size: 20px;
+    margin-top: 30px;    
+}
+.ef:hover{
+    transform: scale(1.06);
+    transition: all 1s;
+}
+.ef1:hover{
+    transform: scale(1.06);
+    transition: all 1s;
+}
+.ef2:hover{
+    transform: scale(1.06);
+    transition: all 1s;
+}
+.ef3:hover{
+    transform: scale(1.06);
+    transition: all 1s;
+}
+.is{
+    font-size: 20px; 
+    margin-top: 30px;  
+}
+.gh:hover{
+    transform: scale(1.06);
+    transition: all 1s;
+}
+.gh1:hover{
+    transform: scale(1.06);
+    transition: all 1s;
+}
+.gh2:hover{
+    transform: scale(1.06);
+    transition: all 1s;
+}
+.gh3:hover{
+    transform: scale(1.06);
+    transition: all 1s;
+}
+.hat{
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+}
+.hat p{
+ font-size: 20px;
+}
+.ry img{
+    height:300px;
+    width: 300px;
+}
+.blue{
+background-color: blueviolet;
+padding-top: 50px;
+padding-bottom: 50px;
+color:white;
+
+}
+.mail{
+    width:270px; 
+    
+}
+.io{
+    font-size: 20px;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+.king p{
+    color:blue;
+    font-size:15px;
+   text-decoration: underline;
+}
+.kg p{
+    color:blue;
+    font-size:15px;
+    text-decoration: underline;
+}
+.dj{
+    margin-top: 30px;
+}
+.cap img{
+    width:1348px;
+
+}
+.ca img{
+    width:1348px;
+}
+.fl{
+    display:flex;
+   
+}
+.pro{
+    padding-top: 8px;
+    padding-right:10px;
+}
+.ind{
+    width:450px;
+    margin-left: 350px;
+    margin-bottom: 50px;
+}
+.yy{
+    font-size: 20px;
+    font-weight: bold;
+}
+.footer{
+    display:flex;
+    height:30px;
+    background-color: maroon;
+    margin-top:20px;
+    color:white;
+    padding-left: 20px;
+}
+.list ul li{
+    list-style: none;
+    display:inline;
+    margin-right:30px;
+    font-size:15px;
+ }
+.cap{
+    margin-top: 250px;
+}
+
+
+
+ 

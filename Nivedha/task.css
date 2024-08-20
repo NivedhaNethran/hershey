@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.col{
+    background-color:aqua;
+    color:blue;
+}
+.nav{
+    display:flex;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 30px;
+}
+.one li{
+    display:inline;
+    padding-left: 20px;
+    font-size: 18px;
+} 
+.nav p{
+    padding-left: 220px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.two li{
+    display:inline;
+    padding-left:80px;
+    font-size: 18px;
+}
+.sr{
+    padding-left: 100px;
+}
+.web{
+    font-size: 80px;
+}
+.go p{
+    font-size: 25px;
+}
+.more{
+    color:white;
+    background-color: blue;
+    width:130px;
+    height:50px;
+    font-weight: bold;   
+}
+.pic1 img{
+    height:400px;
+    width:300px;
+}
+.pic2 img{
+    height:400px;
+    width:300px;
+}
+.pic3 img{
+    height:400px;
+    width:300px;
+}
+.pic1{
+    background-color: pink;
+    color:blue;
+    text-align: center;
+    padding-top: 30px;
+    font-family: "Poppins", sans-serif;
+}
+.pic1 h5{ 
+    text-decoration: underline 5px white;
+}
+   
+.pic2{
+    background-color:rgb(18, 243, 134);
+    color:blue;
+    text-align: center;
+    padding-top: 30px;
+    font-family: "Poppins", sans-serif;
+}
+.pic2 h5{ 
+    text-decoration: underline 5px white;
+}
+.pic3{
+    background-color: rgb(60, 221, 229);
+    color:blue;
+    text-align: center; 
+    padding-top: 30px;
+    font-family: "Poppins", sans-serif;  
+}
+.pic3 h5{ 
+    text-decoration: underline 5px white;
+}
+.pic1 h1{
+    font-size: 35px;
+}
+.pic2 h1{
+    font-size: 35px;
+}
+.pic3 h1{
+    font-size: 35px;
+}
+.take{
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(21, 75, 170)
+    
+}
+.take h2{
+    font-weight:bolder;
+    font-size: 40px;
+}
+.take p{
+    font-size: 30px;
+}
+.bike img{
+height:110px;
+width:110px;
+border:solid 3px;
+border-radius: 50%;
+padding:10px;
+border-color: rgb(6, 72, 252);
+}
+.bike p{
+    padding: 20px;
+}
+.r1 img{
+    height:170px;
+    width:170px;
+}
+.r2 img{
+    height:170px;
+    width: 170px;
+}
+.reach{
+    background-color: rgb(58, 251, 203);
+    padding: 100px;
+}
+.r3{
+    font-family: "Poppins", sans-serif;
+    font-weight: 70px;
+    color:rgb(12, 81, 186)
+}
+
+
+
+
+
+
